@@ -9,4 +9,3 @@ Hence, we associate frames to physical addresses while we link packets to logica
 **In short, a frame and a packet differ in how they encapsulate the data payload.** 
 
 https://www.baeldung.com/cs/osi-packets-vs-frames#:~:text=A%20frame%20is%20the%20data,they%20encapsulate%20the%20data%20payload.
-

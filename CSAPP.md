@@ -67,3 +67,19 @@ LSB(Least Significant Bit) / MSB(Most Significant Bit) comes first.
    for signed integer
 
 ii
+
+
+
+
+
+# CH 3 Machine-Level Representation of Programs
+
+## leaq vs movq
+
+https://courses.cs.washington.edu/courses/cse351/17wi/lectures/CSE351-L09-x86-II_17wi.pdf
+
+![](https://s2.loli.net/2024/03/18/IhEqXbKi1pw48d6.png)
+
+![](https://s2.loli.net/2024/03/18/RfDkmAYOgUSjasb.png)
+
+https://stackoverflow.com/questions/1699748/what-is-the-difference-between-mov-and-lea
